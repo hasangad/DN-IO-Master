@@ -2,7 +2,6 @@
 <widget id="com.DN.News" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Dogrusu News</name>
   <description>
-        WordApp Ionic Framework and Cordova project.
     </description>
   <author email="hasangad.com@gmail.com" href="http://dogrusunews.com/">
       Gadency
